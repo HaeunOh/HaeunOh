@@ -40,14 +40,3 @@ I also enjoy escape room games and Sudoku, as I love puzzles and problem-solving
 </p>
 
 
-<p align="center">
-<strong>💎 my most used languages!</strong>
-</p>
-
-
-  
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haeunOh&layout=donut-vertical" alt="Top Languages" />
-  </a>
-</p>
